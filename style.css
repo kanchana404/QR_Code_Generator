@@ -1,0 +1,42 @@
+body{
+    background-color: #343a40;
+}
+
+#senctor{
+
+       width:  400px;
+        padding: 25px 35px;
+        position: absolute;
+        top: 40%;
+        left: 40%;
+        transform: translateY(-50%, -50%);
+        background: #fff;
+        border-radius: 10px;
+}
+
+
+
+#senctor input{
+    width: 100%;
+    height: 55px;
+    border: 1px solid #494eea;
+    outline: 0;
+    padding: 10px;
+    margin: 10px 0 20px;
+    border-radius: 5px;
+
+}
+
+#senctor button{
+    width: 100%;
+    height: 50px;
+    background: #494eea;
+    color: #fff;
+    border: 0;
+    outline: 0;
+    border-radius: 5px;
+    box-shadow: 0 10px 10px rgba(0,0,0,0.1);
+    cursor: pointer;
+    margin: 20px 0;
+    font-weight: 500;
+}
